@@ -173,17 +173,6 @@ begin
     end process;
 end architecture rtl;
 
-# MIPS Assembly
-.data
-    message: .asciiz "Goodbye world!"
-.text
-    main:
-        li $v0, 4
-        la $a0, message
-        syscall
-
-        li $v0, 10
-        syscall
 # Bash Script
 #!/bin/bash
 echo "Goodbye world!"
