@@ -1,152 +1,149 @@
-# Goodbye-World-in-every-coding-language
-A repository for Goodbye World in every coding language I could find/know.
-# Python
+# Python:
 print("Goodbye World")
 
-# Java
+# Java:
 System.out.println("Goodbye World");
 
-# JavaScript
+# JavaScript:
 console.log("Goodbye World");
 
-# C
+# C:
 #include <stdio.h>
 int main() {
    printf("Goodbye World");
    return 0;
 }
 
-# C++
+# C++:
 #include <iostream>
 int main() {
    std::cout << "Goodbye World";
    return 0;
 }
 
-# Ruby
+# Ruby:
 puts "Goodbye World"
 
-# PHP
-<?php
-echo "Goodbye World";
-?>
+# Visual Basic Script:
+MsgBox "Hello World!"
 
-# Swift
+# Swift:
 print("Goodbye World")
 
-# Go
+# Go:
 package main
 import "fmt"
 func main() {
     fmt.Println("Goodbye World")
 }
 
-# Rust
+# Rust:
 fn main() {
     println!("Goodbye World");
 }
 
-# Kotlin
+# Kotlin:
 fun main() {
     println("Goodbye World")
 }
 
-# Perl
+# Perl:
 print "Goodbye World\n";
 
-# Bash
+# Bash:
 echo "Goodbye World"
 
-# Lua
+# Lua:
 print("Goodbye World")
 
-# Powershell
+# Powershell:
 Write-Host "Goodbye World"
 
-# Dart
+# Dart:
 void main() {
     print("Goodbye World");
 }
 
-# Objective-C
+# Objective-C:
 #import <Foundation/Foundation.h>
 int main() {
    NSLog(@"Goodbye World");
    return 0;
 }
 
-# R
+# R:
 cat("Goodbye World\n")
 
-# Julia
+# Julia:
 println("Goodbye World")
 
-# Visual Basic
+# Visual Basic:
 Module HelloWorld
    Sub Main()
       Console.WriteLine("Goodbye World")
    End Sub
 End Module
 
-# SQL
+# SQL:
 SELECT 'Goodbye World';
 
-# MATLAB
+# MATLAB:
 disp('Goodbye World')
 
-# TypeScript
+# TypeScript:
 console.log('Goodbye World');
 
-# Scala
+# Scala:
 object HelloWorld extends App {
    println("Goodbye World")
 }
 
-# Groovy
+# Groovy:
 println "Goodbye World"
 
-# Prolog
+# Prolog:
 :- initialization(main).
 main :- write('Goodbye World'), nl.
 
-# Tcl
+# Tcl:
 puts "Goodbye World"
 
-# COBOL
+# COBOL:
 IDENTIFICATION DIVISION.
 PROGRAM-ID. GOODBYE.
 PROCEDURE DIVISION.
 DISPLAY "Goodbye World".
 STOP RUN.
 
-# Fortran
+# Fortran:
 PROGRAM GOODBYE
   WRITE(*,*) 'Goodbye World'
 END PROGRAM GOODBYE
-# Ada
+
+# Ada:
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Goodbye is
 begin
   Put_Line("Goodbye World");
 end Goodbye;
 
-# Crystal
+# Crystal:
 puts "Goodbye World"
 
-# Elixir
+# Elixir:
 IO.puts("Goodbye World")
 
-# Haxe
+# Haxe:
 class Main {
     public static function main() {
         trace("Goodbye World");
     }
 }
 
-# Smalltalk
+# Smalltalk:
 Transcript show: 'Goodbye World'
 
-# COOL
+# COOL:
 class Main {
     main() : Object {
         out_string("Goodbye World\n");
@@ -154,10 +151,10 @@ class Main {
     };
 };
 
-# OCaml
+# OCaml:
 print_string "Goodbye World\n"
 
-# VHDL
+# VHDL:
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
@@ -173,14 +170,14 @@ begin
     end process;
 end architecture rtl;
 
-# Bash Script
+# Bash Script:
 #!/bin/bash
 echo "Goodbye world!"
 
-# Brainfuck
+# Brainfuck:
 -[------->+<]>-.-[->+++++<]>++.++++++++.+++++.------------.-[--->+<]>---.+++++[->+++<]>++.---------------.++++++++.++++++++.------------------.-[--->+<]>---.+++++++++++++.+++.--------------.+++.++[->+++<]>.--[--->+<]>-.++++++++.+++++.++.-------------.+++++++++++++.++++++++.----.-[--->+<]>--.++++.------.--------.++++++++++.-----.++++++++.+++++.++++++++++.---------.+.```
 
-# Intercal
+# Intercal:
 PLEASE DO ,1 <- #13
 DO ,1 SUB #1 <- #234
 DO ,1 SUB #2 <- #112
@@ -192,13 +189,13 @@ DO ,1 SUB #7 <- #48
 PLEASE READ OUT ,1
 PLEASE GIVE UP
 
-# LOLCODE
+# LOLCODE:
 HAI
     CAN HAS STDIO?
     VISIBLE "Goodbye World"
 KTHXBYE
 
-# Whitespace
+# Whitespace:
   \t 
 \t\t 
   \t 
